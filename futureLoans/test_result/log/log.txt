@@ -1,0 +1,99 @@
+2020-08-27 22:21:01,041-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:21:01,298-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:21:01,462-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:29:48,142-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:29:48,377-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:29:48,535-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:32:11,905-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:32:12,162-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:32:12,313-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:35:21,021-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:35:21,463-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125630, 'reg_name': '小柠檬', 'mobile_phone': '13801583607'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:35:21,465-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:35:21,844-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125630, 'leave_amount': 0.0, 'mobile_phone': '13801583607', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:35:22.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:40:22', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2MzAsImV4cCI6MTU5ODUzOTIyMn0.8hTMTd1uwXAVddognor18tGI9NOwAIOIln5JycvRpF5XDy4CSkf_fKIt1dupXUSbmbOOUgjWJtY0xlWWYcMo9Q'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:35:21,846-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:39:21,560-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:40:05,595-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:40:06,130-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125639, 'reg_name': '小柠檬', 'mobile_phone': '13801583609'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:40:06,131-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:40:06,600-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125639, 'leave_amount': 0.0, 'mobile_phone': '13801583609', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:40:06.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:45:07', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2MzksImV4cCI6MTU5ODUzOTUwN30.O-to4jU52wiAY2hHRqF69J4BICQ0Rv1QSSZ4y-fmvwpwqvzK8vdQIV3wCJrfvi2XDmcbcTtjUyldOharEtePeg'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:40:06,601-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:41:13,535-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:41:14,041-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125640, 'reg_name': '小柠檬', 'mobile_phone': '13801583610'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:41:14,043-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:41:14,445-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125640, 'leave_amount': 0.0, 'mobile_phone': '13801583610', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:41:14.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:46:15', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2NDAsImV4cCI6MTU5ODUzOTU3NX0.rLKBzc2M2d2FZR1YLyl79nf-yFTge0-0xm6n-RjgTzbQzy6h9lxgvIUjDSuxouB_CiyJOwXZiHpum3CumyZerw'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:41:14,446-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:43:48,825-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:43:50,171-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125664, 'reg_name': '小柠檬', 'mobile_phone': '13801583611'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:43:50,173-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:43:50,595-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125664, 'leave_amount': 0.0, 'mobile_phone': '13801583611', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:43:50.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:48:51', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2NjQsImV4cCI6MTU5ODUzOTczMX0.lWnKFCpeU6rmJJpM-GcRFzFgmVg1Sy9cYZ1pcBJzhXmpgT_Nkhx_734JSJ63rXxcMud6yLfkV5QUbDPvCNfUIw'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:43:50,596-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:45:45,188-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:45:45,633-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125675, 'reg_name': '小柠檬', 'mobile_phone': '13801583612'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:45:45,634-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:45:46,076-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125675, 'leave_amount': 0.0, 'mobile_phone': '13801583612', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:45:46.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:50:46', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2NzUsImV4cCI6MTU5ODUzOTg0Nn0.ljz6SLmjgBewcLA_SpstUy64O_QNNbYuzSU1Z3c8zf-UZHC3P7aF6T9tZ9WpWqC_h1KYXUhlZOlaGPO3QWhHPQ'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:45:46,077-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:46:25,565-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:46:26,033-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125680, 'reg_name': '小柠檬', 'mobile_phone': '13801583613'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:46:26,035-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:46:26,425-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125680, 'leave_amount': 0.0, 'mobile_phone': '13801583613', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:46:26.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:51:27', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2ODAsImV4cCI6MTU5ODUzOTg4N30.6THlObe_scTvv3wvF9LEbRR6Iq8CZH3n3I763O8nWcnR9yQhF8ZhveEkYrLWqpdIDSn6tiyyj6g_uKS1h9odOg'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:46:26,427-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:47:02,440-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:47:02,887-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125681, 'reg_name': '小柠檬', 'mobile_phone': '13801583614'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:47:02,888-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:47:03,299-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125681, 'leave_amount': 0.0, 'mobile_phone': '13801583614', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:47:03.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:52:04', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2ODEsImV4cCI6MTU5ODUzOTkyNH0.B1GjdMwSP9O0rRRdWOSTmMVqrP6PF-zsOiZDsrzb8Kb-dgekuNM4fgZtb09QMTejqMWcTl-KMECrJtMjIhJ-zA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:47:03,301-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:47:38,116-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:47:38,415-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125683, 'reg_name': '小柠檬', 'mobile_phone': '13801583615'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:47:38,416-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:47:38,682-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125683, 'leave_amount': 0.0, 'mobile_phone': '13801583615', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:47:39.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:52:39', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2ODMsImV4cCI6MTU5ODUzOTk1OX0.d5XWUI-Yn8ean00bu8zKbPX7vUf4E8kSndfBOajdSK2Mt9dKpvCiYyid79PbJFZmx-KugWqkk8Pu8KUjNy_3cA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:47:38,683-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:50:52,906-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:50:53,366-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125699, 'reg_name': '小柠檬', 'mobile_phone': '13801583616'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:50:53,367-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:50:53,786-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125699, 'leave_amount': 0.0, 'mobile_phone': '13801583616', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:50:54.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:55:54', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2OTksImV4cCI6MTU5ODU0MDE1NH0.8RvmhSnZvniwwp3wDaIswfD5PuCBCjeiSvTnEPU4UxCsYpn0X_v2xg4-owVbG4tw2YAch78aQp__sA2MdE04CA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:50:53,787-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:51:41,175-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:51:41,772-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125705, 'reg_name': '小柠檬', 'mobile_phone': '13801583617'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:51:41,774-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:51:42,191-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125705, 'leave_amount': 0.0, 'mobile_phone': '13801583617', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:51:42.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:56:42', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MDUsImV4cCI6MTU5ODU0MDIwMn0.exSiTpMkFXJ57gAbewSUHzrm-sZdrfv8ePgEVsOPnKmPTs3fqEkNAH6valCgprEu8ogQ7MiclnF-5HXTfTiJpA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:51:42,192-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:54:06,410-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:54:06,744-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125716, 'reg_name': '小柠檬', 'mobile_phone': '13801583618'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:54:06,745-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:54:07,001-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125716, 'leave_amount': 0.0, 'mobile_phone': '13801583618', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:54:07.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:59:07', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MTYsImV4cCI6MTU5ODU0MDM0N30.B0QK4xeEQSt7ERIWUwCaorJe1yplZ7l6eRC3Zm-ADKfwKe92gIO3zdka2mCNlp43x-hllmTrTtmJR09PnBPd6Q'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:54:07,002-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:54:33,429-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:54:33,867-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125717, 'reg_name': '小柠檬', 'mobile_phone': '13801583619'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:54:33,869-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:54:34,283-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125717, 'leave_amount': 0.0, 'mobile_phone': '13801583619', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:54:34.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 22:59:35', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MTcsImV4cCI6MTU5ODU0MDM3NX0.CaaVaG1vjlDntnrtlgxg1SsGRzj0bTvHl5Ta6I5EK6Q_JPpRWgnNJsGiylV1V54vpWHw823gYa8z0aKSRUsfBw'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:54:34,285-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:55:11,695-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:55:12,176-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125718, 'reg_name': '小柠檬', 'mobile_phone': '13801583620'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:55:12,178-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:55:12,577-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125718, 'leave_amount': 0.0, 'mobile_phone': '13801583620', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:55:12.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 23:00:13', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MTgsImV4cCI6MTU5ODU0MDQxM30.KP2peNAMAI6TGw3yRQhmqQWHAsEFPO6hZ923WL-1zBav-_oxo5cPvsb7E31ADMWDpz_dj8SoliVhtxaP57bxfQ'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:55:12,579-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:56:36,999-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:56:37,443-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125723, 'reg_name': '小柠檬', 'mobile_phone': '13801583621'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:56:37,445-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:56:37,828-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125723, 'leave_amount': 0.0, 'mobile_phone': '13801583621', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:56:38.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 23:01:38', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MjMsImV4cCI6MTU5ODU0MDQ5OH0.Q03gKgBN2OB3s5S_wmF40TVWjF0Z2SC_AIRBaKuXNq2RawDtcDIK2n5E8FoXL2ekewNkLMFrmr3NK1s1ZW5wvw'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:56:37,830-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 22:58:58,338-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 22:58:58,849-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125728, 'reg_name': '小柠檬', 'mobile_phone': '13801583622'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:58:58,851-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 22:58:59,255-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125728, 'leave_amount': 0.0, 'mobile_phone': '13801583622', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:58:59.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 23:04:00', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MjgsImV4cCI6MTU5ODU0MDY0MH0.JC8ZWUzS2fnxkjeZYlcjhrZ3j4gzKReHYAhv9MU5Nt4x-Go1STCuS-OgugHSXeT5r-dwN5XiyCORXvoKV6DnQQ'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 22:58:59,256-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 23:00:28,312-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 23:00:29,027-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125734, 'reg_name': '小柠檬', 'mobile_phone': '13801583623'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 23:00:29,029-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 23:00:29,549-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125734, 'leave_amount': 0.0, 'mobile_phone': '13801583623', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 23:00:29.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 23:05:30', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MzQsImV4cCI6MTU5ODU0MDczMH0.c3gPp0sDbje978gYcpTS0SRUR8bA47bWWB-BnfXY6E8bum47SDJL_4FQF3Ve8VuOm00DffZPNTYDH3jZ0emKwQ'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 23:00:29,551-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 23:01:44,104-INFO-my_log.py-my_logging-日志信息∶执行用例：正常注册
+2020-08-27 23:01:44,639-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125736, 'reg_name': '小柠檬', 'mobile_phone': '13801583624'}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 23:01:44,641-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 23:01:45,075-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125736, 'leave_amount': 0.0, 'mobile_phone': '13801583624', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 23:01:45.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 23:06:45', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU3MzYsImV4cCI6MTU5ODU0MDgwNX0.Ax4T8MYP6vKYi_hO0JgCSQ4cqOaqkKwi8hirQRFrZO0gvmnVRu6Q46e0B_1JO1F3_egSIuF1vESKFBdwfX6JfA'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 23:01:45,076-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 23:04:54,864-INFO-my_log.py-my_logging-日志信息∶执行用例：正常登陆
+2020-08-27 23:04:55,191-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125624, 'leave_amount': 0.0, 'mobile_phone': '13801583606', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:32:13.0', 'type': 1, 'token_info': {'token_type': 'Bearer', 'expires_in': '2020-08-27 23:09:56', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJtZW1iZXJfaWQiOjExMjU2MjQsImV4cCI6MTU5ODU0MDk5Nn0.8Mf9SPDdWKxl0I8bcw8AeW9i5LqS1vsefH-urdgJg5LTReA2rIqImIGeYojqLoTS5HWVoHHQho_x2oMXclZKnw'}}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
+2020-08-27 23:04:55,192-INFO-my_log.py-my_logging-日志信息∶执行用例：正常充值
+2020-08-27 23:04:56,659-INFO-my_log.py-my_logging-日志信息∶执行结果为：{'code': 0, 'msg': 'OK', 'data': {'id': 1125624, 'leave_amount': 20000.0, 'mobile_phone': '13801583606', 'reg_name': '小柠檬', 'reg_time': '2020-08-27 22:32:13.0', 'type': 1}, 'copyright': 'Copyright 柠檬班 © 2017-2020 湖南省零檬信息技术有限公司 All Rights Reserved'}
